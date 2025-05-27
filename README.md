@@ -66,7 +66,7 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zevis-ai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zevis-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zevis-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
 
 </div>
 
